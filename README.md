@@ -1,6 +1,6 @@
 # Price Impact Study
 
-A script that takes order book data and plots the price impact of buyer initiated trades against bins of volume. Inspired by "Single Curve Collapse of the Price Impact Function for the New York Stock Exchange” by Lillo, Farmer, and Mantegna.
+A script that takes orderbook data and plots the price impact of buyer initiated trades against bins of volume. Inspired by "Single Curve Collapse of the Price Impact Function for the New York Stock Exchange” by Lillo, Farmer, and Mantegna.
 
 
 
