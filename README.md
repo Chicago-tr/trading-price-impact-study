@@ -15,4 +15,4 @@ Volume is then normalized by dividing by the average transaction volume in order
 
 Trades are then binned by this volume multiple and the price impact of each trade (change in ask price) in a bin is used to obtain an average impact.
 
-This data is then plotted. Code for fitting an exponential function is provided but not used at the bottom, since, unfortunately the datasets were insufficient for such analysis. While a positive correlation can be seen in the graphs between volume and price impact, after extracting the relevant data, we were left with a limited number of relevant transaction. This in turn led to a large degree of variance in measuring price impact in bins that were sparsly populated.
+This data is then plotted. Code for fitting an exponential function is provided but not used at the bottom, since, unfortunately the datasets were insufficient for such analysis. While a positive correlation can be seen in the graphs between volume and price impact, after extracting the relevant data, we were left with a limited number of transactions. This in turn led to a large degree of variance in measuring price impact in bins that were sparsly populated.
